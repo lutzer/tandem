@@ -1,4 +1,4 @@
-# substantiven
+# Substantiv
 
 ## Genus
 
@@ -20,7 +20,7 @@
 | en lärare - läraren | lärare - lärarna | en wörter enden auf *-are*, *-iker* oder *-ier*
 
 
-## genitiven
+## Genitiven
 
 Der Genitiv wird durch einfaches Anfügen des Suffixes -s gebildet, das allerdings entfällt, wenn das Substantiv bereits auf -s endet. Nach dem Genitiv steht das Substantiv, welches in Relation steht, immer in der unbestimmten Form. Auch 
 
