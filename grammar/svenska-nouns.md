@@ -6,8 +6,8 @@
 |---|---|---|
 | en lampa -	lampan | lampor	- lamporn | En-Wörter, die auf -a enden
 |-|-|-|-|
-| en pojke - pojken | bilar - bilarna | En-Wörter, die auf -e oder Konsonanten enden. Die größte Gruppe. |
-| en bil - bilen | pojkar - pojkarna | ^ |
+| en pojke - pojken | pojkar - pojkarna | En-Wörter, die auf -e oder Konsonanten enden. Die größte Gruppe. |
+| en bil - bilen | bilar - bilarna | ^ |
 |-|-|-|-|
 | en gäst - gästen | gästar - gästerna | En, endet auf Konsonant
 | en son - sonen | söner - sönerna | En, umlautet Stammvokal
@@ -34,7 +34,7 @@ Der Genitiv wird durch einfaches Anfügen des Suffixes -s gebildet, das allerdin
 
 Das Possessivpronomen muss an das Genus des Wortes, auf das es sich bezieht, angeglichen werden.
 
-| *Deutsch* 		| Singular manlig	| Singular kvinnlig | Pluralen
+| *Deutsch* 		| Singular Utrum 	| Singular Neutrum | Pluralen
 |---------------	|------------------	|-------------------|------------
 | *mein*			| min bil				| mitt hus          | mina bilar, mina hus
 | *dein*			| din bil				| ditt hus          | dina bilar, dina hus
